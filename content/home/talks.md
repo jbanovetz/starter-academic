@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Public Talks
 headless: true
-weight: 90
+weight: 50
 title: Public Talks
 subtitle: null
 content:
