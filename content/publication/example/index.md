@@ -47,7 +47,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: thumbnail_e0102_draft_jd-ap_clean.png
-date: 2021-06-25T15:26:30.009Z
+date: 2021-06-25T05:26:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
