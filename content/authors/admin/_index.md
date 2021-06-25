@@ -7,12 +7,9 @@ interests:
   - Supernova Remnants
   - Diffuse Interstellar Bands
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: jbanovet@purdue.edu
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/john-banovetz-89191a85
+    link: https://linkedin.com/in/john-banovetz-89191a85
   - display:
       header: false
     icon_pack: ai
