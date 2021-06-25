@@ -39,8 +39,8 @@ superuser: true
 highlight_name: false
 ---
 
-John Banovetz is a graduate student at Purdue University working in the Time Domain Astronomy Group. He specializes in supernova remnants, especially using proper motion measurements to determine the age and explosion center of the remnant. He also works on creating 3D reconstructions of supernova remnants for morphological comparisons. 
+I am a graduate student at Purdue University working in the Time Domain Astronomy Group. I specializes in supernova remnants, especially using proper motion measurements to determine the age and explosion center of the remnant. In addition, I create 3D reconstructions of supernova remnants for morphological comparisons. 
 
-John also studies diffuse interstellar bands. He uses multi epoch observations to gain insights into the origins of the diffuse interstellar band carriers.
+I also study diffuse interstellar bands. I use multi epoch observations to gain insights into the origins of the diffuse interstellar band carriers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Web.pdf" "newtab" >}}CV{{< /staticref >}}.
