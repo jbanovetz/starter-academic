@@ -4,16 +4,15 @@ role: Graduate Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Supernova Remnants
+  - Diffuse Interstellar Bands
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/john-banovetz-89191a85
 organizations:
   - name: Purdue University
     url: ""
