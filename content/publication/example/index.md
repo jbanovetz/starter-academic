@@ -18,7 +18,7 @@ abstract: We present new proper-motion measurements of optically emitting
   an overestimated explosion age. We discuss our findings as they compare to
   previous age and center of expansion estimates of E0102, as well as their
   relevance to a recently identified candidate central compact object.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -29,9 +29,7 @@ authors:
   - et. al
 author_notes: []
 publication: The Astrophysical Journal
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *ApJ*
@@ -42,8 +40,7 @@ title: The Center of Expansion and Age of the Oxygen-rich Supernova Remnant 1E
 doi: " 10.3847/1538-4357/abe2a7"
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
