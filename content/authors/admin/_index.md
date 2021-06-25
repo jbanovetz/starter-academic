@@ -40,4 +40,4 @@ John Banovetz is a graduate student at Purdue University working in the Time Dom
 
 John also studies diffuse interstellar bands. He uses multi epoch observations to gain insights into the origins of the diffuse interstellar band carriers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/'CV (1).pdf'" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Web.pdf" "newtab" >}}CV{{< /staticref >}}.
