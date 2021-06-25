@@ -2,7 +2,7 @@
 widget: project
 widget_id: Research Interests
 headless: true
-weight: 10
+weight: 20
 title: Research Interests
 active: true
 design:
