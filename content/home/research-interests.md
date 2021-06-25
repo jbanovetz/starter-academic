@@ -1,6 +1,6 @@
 ---
 widget: project
-widget_id: Research Interests
+widget_id: Research-Interests
 headless: true
 weight: 20
 title: Research Interests
