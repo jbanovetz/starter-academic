@@ -1,5 +1,5 @@
 ---
-widget: project
+widget: portfolio
 widget_id: Research-Interests
 headless: true
 weight: 20
