@@ -3,7 +3,7 @@ widget: pages
 widget_id: Public Talks
 headless: true
 weight: 90
-title: Recent & Upcoming Talks
+title: Public Talks
 subtitle: null
 content:
   page_type: event
