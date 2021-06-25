@@ -32,7 +32,7 @@ publication: The Astrophysical Journal
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ApJ*
+publication_short: "*ApJ*"
 url_source: ""
 url_video: ""
 title: The Center of Expansion and Age of the Oxygen-rich Supernova Remnant 1E
