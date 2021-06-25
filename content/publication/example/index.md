@@ -47,7 +47,7 @@ image:
   focal_point: ""
   preview_only: true
   filename: featured.png
-date: 2021-06-25T05:26:00.000Z
+date: 2021-04-30T16:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
