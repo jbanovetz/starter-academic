@@ -1,6 +1,7 @@
 ---
 title: John Banovetz
 role: Graduate Student
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Supernova Remnants
