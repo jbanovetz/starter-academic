@@ -38,7 +38,7 @@ url_video: ""
 title: The Center of Expansion and Age of the Oxygen-rich Supernova Remnant 1E
   0102.2-7219
 doi: " 10.3847/1538-4357/abe2a7"
-featured: true
+featured: false
 tags: []
 projects: []
 image:
