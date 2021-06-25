@@ -1,6 +1,8 @@
 ---
 title: "Supernova Remnants: Center of Expansion and Age"
 date: 2021-06-25T18:34:27.209Z
+summary: Determining the center or expansion and age of supernova remnants
+  through their ejecta.
 draft: false
 featured: false
 external_link: " "
