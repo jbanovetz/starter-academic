@@ -19,7 +19,7 @@ social:
       header: false
     link: https://orcid.org/0000-0003-0776-8859
     icon_pack: ai
-    icon: orchid
+    icon: orcid
 organizations:
   - name: Purdue University
     url: ""
