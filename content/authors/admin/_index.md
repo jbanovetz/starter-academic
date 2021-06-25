@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: jbanovet@purdue.edu
   - icon: linkedin
     icon_pack: fab
     link: linkedin.com/in/john-banovetz-89191a85
