@@ -1,79 +1,58 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: We present new proper-motion measurements of optically emitting
+  oxygen-rich knots of supernova remnant 1E 0102.2-7219 (E0102), which are used
+  to estimate the remnant's center of expansion and age. Four epochs of
+  high-resolution Hubble Space Telescope images spanning 19 yr were retrieved
+  and analyzed. We found a robust center of expansion of α = 1h04m02.48 s and δ
+  = -72°01'53"92 (J2000) with 1σ uncertainty of 1"77 using 45 knots from images
+  obtained with the Advanced Camera for Surveys using the F475W filter in 2003
+  and 2013 having the highest signal-to-noise ratio. We also estimate an upper
+  limit explosion age of 1738 ± 175 yr by selecting the knots with the highest
+  proper motions and these knots are assumed to be the least decelerated. We
+  find evidence of an asymmetry in the proper motions of the knots as a function
+  of position angle. We conclude that these asymmetries were most likely caused
+  by interaction between E0102's original supernova blast wave and an
+  inhomogeneous surrounding environment, as opposed to intrinsic explosion
+  asymmetry. The observed nonhomologous expansion suggests that the use of a
+  free expansion model inaccurately offsets the center of expansion and leads to
+  an overestimated explosion age. We discuss our findings as they compare to
+  previous age and center of expansion estimates of E0102, as well as their
+  relevance to a recently identified candidate central compact object.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - admin
+  - Dan Milisavljevic
+  - Niharika Svaran
+  - et. al
+author_notes: []
+publication: The Astrophysical Journal
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: In *ApJ*
+url_source: ""
+url_video: ""
+title: The Center of Expansion and Age of the Oxygen-rich Supernova Remnant 1E
+  0102.2-7219
+doi: " 10.3847/1538-4357/abe2a7"
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects:
+  - example
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2021-06-25T15:03:42.901Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
