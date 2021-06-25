@@ -13,6 +13,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: linkedin.com/in/john-banovetz-89191a85
+  - display:
+      header: false
+    icon_pack: ai
+    icon: ADS
+    link: https://ui.adsabs.harvard.edu/public-libraries/pzQQBuZFS9y4miME75JE5A
 organizations:
   - name: Purdue University
     url: ""
