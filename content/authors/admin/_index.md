@@ -1,8 +1,7 @@
 ---
 title: John Banovetz
 role: Graduate Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Supernova Remnants
   - Diffuse Interstellar Bands
@@ -37,8 +36,8 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+John Banovetz is a graduate student at Purdue University working in the Time Domain Astronomy Group. He specializes in supernova remnants, especially using proper motion measurements to determine the age and explosion center of the remnant. He also works on creating 3D reconstructions of supernova remnants for morphological comparisons. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+John also studies diffuse interstellar bands. He uses multi epoch observations to gain insights into the origins of the diffuse interstellar band carriers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/'CV (1).pdf'" "newtab" >}}CV{{< /staticref >}}.
