@@ -16,8 +16,13 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: ADS
+    icon: ads
     link: https://ui.adsabs.harvard.edu/public-libraries/pzQQBuZFS9y4miME75JE5A
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-0776-8859
+    icon_pack: ai
+    icon: orchid
 organizations:
   - name: Purdue University
     url: ""
