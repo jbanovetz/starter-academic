@@ -45,7 +45,7 @@ image:
   caption: "Image credit: [STScI Press
     Office](https://hubblesite.org/contents/news-releases/2021/news-2021-002)"
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: thumbnail_e0102_draft_jd-ap_clean.png
 date: 2021-06-25T05:26:00.000Z
 url_slides: ""
