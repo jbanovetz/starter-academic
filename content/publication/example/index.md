@@ -24,9 +24,17 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Dan Milisavljevic
-  - Niharika Svaran
-  - et. al
+  - Milisavljevic
+  - Dan ; Sravan
+  - Niharika ; Fesen
+  - Robert A. ; Patnaude
+  - Daniel J. ; Plucinsky
+  - Paul P. ; Blair
+  - William P. ; Weil
+  - Kathryn E. ; Morse
+  - Jon A. ; Margutti
+  - Raffaella ; Drout
+  - Maria R.
 author_notes: []
 publication: The Astrophysical Journal
 summary: ""
@@ -37,7 +45,7 @@ url_source: ""
 url_video: ""
 title: The Center of Expansion and Age of the Oxygen-rich Supernova Remnant 1E
   0102.2-7219
-doi: " 10.3847/1538-4357/abe2a7"
+doi: https://ui.adsabs.harvard.edu/abs/2021ApJ...912...33B/abstract
 featured: true
 tags: []
 projects: []
