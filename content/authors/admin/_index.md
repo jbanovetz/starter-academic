@@ -5,6 +5,9 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Supernova Remnants
+  - -3D Reconstuction
+  - Feature Identification
+  - Feature Tracking
   - Diffuse Interstellar Bands
 social:
   - icon: linkedin
