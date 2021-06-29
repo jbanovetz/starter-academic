@@ -16,7 +16,7 @@ authors:
   - Jon A. ; Margutti
   - Raffaella ; Drout
   - Maria R.
-doi: https://ui.adsabs.harvard.edu/abs/2021ApJ...912...33B/abstract
+doi: 10.3847/1538-4357/abe2a7
 publication: The Astrophysical Journal
 publication_short: "*ApJ*"
 abstract: We present new proper-motion measurements of optically emitting
